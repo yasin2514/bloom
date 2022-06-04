@@ -1,0 +1,496 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: arial;
+
+}
+/*Manubar start*/
+.Manubar{
+	width: 100%;
+	height: 91px;
+	background-color:#2F2F2F;
+	position: relative;
+}
+.Manubar img{
+	height: 60px;
+	width: 145px;
+	position: absolute;
+	margin-top: 13px;
+	margin-left: 90px;
+}
+.Manubar ul{
+	position: absolute;
+	margin-top: 26px;
+	margin-left: 645px;
+	padding: 8px;
+	cursor: pointer;
+
+}
+
+.Manubar ul li:hover{
+	border: .5px solid;
+	border-color: white;
+	padding-top: 2px;
+	border-radius: 1px;
+	padding-bottom: 2px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.Manubar ul li{
+	list-style-type: none;
+	float: left;
+	color: white;
+	padding: 0px 20px;
+	font-size: 16px;
+
+}
+							/*manubar end*/
+/*Banner start*/
+.Banner
+{
+	width: 100%;
+	height: 350px;
+	background-color:#F1F1F1;
+	position: relative;
+
+}
+.banner1{
+	height: 300px;
+	width: 400px;
+	margin-top: 37px;
+	margin-left: 120px;
+	position: absolute;
+	
+}
+.banner1 h3{
+	position:relative;
+	margin-top: 10px;
+
+}
+.banner1 p{
+	position:relative;
+	margin-top:15px;
+	text-align: justify;
+	color: #6d706f;
+	font-size: 14px;
+}
+.banner1 button{
+	position: relative;
+	margin-top: 35px;
+	background-color: #F7973C;
+	color: white;
+	height: 30px;
+	width: 100px;
+	border-radius: 5px;
+	border: 1px solid;
+	font-weight: bold;
+
+}
+.banner1 button:hover{
+	background-color: white;
+	border: 1px solid;
+	color:  #F7973C;
+	cursor: pointer;
+
+}
+.banner2{
+	height: 300px;
+	width: 590px;
+	margin-top: 37px;
+	margin-left: 565px;
+	position: absolute;
+	
+}
+.banner2 img{
+	height: 250px;
+	width: 580px;
+	position: absolute;
+}
+							/*Banner end*/
+/*Content1 start*/
+.Content1{
+	width: 100%;
+	height: 550px;
+	background-color:#FFFFFF;
+	position: relative;
+
+
+}
+.con1{
+	position: absolute;
+	height: 450px;
+	width: 230px;
+	margin-top: 50px;
+	margin-left: 120px;
+	float: left;
+}
+.Content1 h2{
+	position: absolute;
+	margin-top: 45px;
+	color: #2F2F2F;
+	margin-left: 120px;
+
+}
+
+.con1 img{
+	position: absolute;
+	margin-top: 50px;
+	height: 160px;
+	width: 230px;
+
+
+}
+.con1 h3{
+	position: absolute;
+	margin-top: 240px;
+	color: #2F2F2F;
+}
+.con1 p{
+	position: absolute;
+	margin-top: 280px;
+	font-size: 14px;
+	text-align:justify;
+	color: #6d706f;
+
+}
+.con1 button{
+	position: relative;
+	margin-top: 380px;
+	background-color: #F7973C;
+	color: white;
+	height: 30px;
+	width: 100px;
+	border-radius: 5px;
+	border: 1px solid;
+	font-weight: bold;
+
+}
+.con1 button:hover{
+	background-color: white;
+	border: 1px solid;
+	color:  #F7973C;
+	cursor: pointer;
+
+}
+.con2{
+	position: absolute;
+	height: 450px;
+	width: 230px;
+	margin-top: 50px;
+	margin-left: 520px;
+	float: left;
+}
+
+.con2 img{
+	position: absolute;
+	margin-top: 50px;
+	height: 160px;
+	width: 230px;
+
+
+}
+.con2 h3{
+	position: absolute;
+	margin-top: 240px;
+	color: #2F2F2F;
+}
+.con2 p{
+	position: absolute;
+	margin-top: 280px;
+	font-size: 14px;
+	text-align: justify;
+	color: #6d706f;
+}
+.con2 button{
+	position: relative;
+	margin-top: 380px;
+	background-color: #F7973C;
+	color: white;
+	height: 30px;
+	width: 100px;
+	border-radius: 5px;
+	border: 1px solid;
+	font-weight: bold;
+
+}
+.con2 button:hover{
+	background-color: white;
+	border: 1px solid;
+	color:  #F7973C;
+	cursor: pointer;
+
+}
+.con3{
+	position: absolute;
+	height: 450px;
+	width: 230px;
+	margin-top: 50px;
+	margin-left: 910px;
+	float: left;
+}
+
+.con3 img{
+	position: absolute;
+	margin-top: 50px;
+	height: 160px;
+	width: 230px;
+
+
+}
+.con3 h3{
+	position: absolute;
+	margin-top: 240px;
+	color: #2F2F2F;
+}
+.con3 p{
+	position: absolute;
+	margin-top: 280px;
+	font-size: 14px;
+	text-align: justify;
+	color: #6d706f;
+}
+.con3 button{
+	position: relative;
+	margin-top: 380px;
+	background-color: #F7973C;
+	color: white;
+	height: 30px;
+	width: 100px;
+	border-radius: 5px;
+	border: 1px solid;
+	font-weight: bold;
+
+}
+.con3 button:hover{
+	background-color: white;
+	border: 1px solid;
+	color:  #F7973C;
+	cursor: pointer;
+
+}
+
+							/*Content1 end*/
+/*Content2 start*/
+.Content2{
+	width: 100%;
+	height: 350px;
+	background-color:#252525;
+	position: relative;
+
+
+}
+.C2-con1{
+	position: absolute;
+	height: 300px;
+	width: 330px;
+	margin-top: 0px;
+	margin-left: 120px;
+	
+}
+.C2-con1 h2{
+	position: absolute;
+	margin-top: 40px;
+	color:#FFFFFF;
+}
+.C2-con1-div1{
+	height: 50px;
+	width: 45px;
+	background-color: white;
+	border-radius: 3px;
+	margin-top: 90px;
+}
+.C2-con1-div1 label{
+	margin-top: 8px;
+	margin-left: 7px;
+	position: absolute;
+}
+.C2-con1-div1 b{
+	margin-left: 10px;
+	position: absolute;
+	margin-top: 25px;
+}
+.C2-con1-div2{
+	height: 50px;
+	width: 45px;
+	background-color: white;
+	border-radius: 3px;
+	margin-top: 20px;
+}
+.C2-con1-div2 label{
+	margin-top: 8px;
+	margin-left: 7px;
+	position: absolute;
+}
+.C2-con1-div2 b{
+	margin-left: 10px;
+	position: absolute;
+	margin-top: 25px;
+}
+.C2-con1-div3{
+	height: 50px;
+	width: 45px;
+	background-color: white;
+	border-radius: 3px;
+	margin-top: 20px;
+}
+.C2-con1-div3 label{
+	margin-top: 8px;
+	margin-left: 7px;
+	position: absolute;
+}
+.C2-con1-div3 b{
+	margin-left: 10px;
+	position: absolute;
+	margin-top: 25px;
+}
+.b1{
+	position: absolute;
+	margin-top: -189px;
+	margin-left: 60px;
+	color: #FFFFFF;
+}
+.label1{
+	position: absolute;
+	margin-top: -187px;
+	margin-left: 60px;
+	color: #FFFFFF;
+	font-size: 11px;
+
+}
+.b2{
+	position: absolute;
+	margin-top: -157px;
+	margin-left: 60px;
+	color: #FFFFFF;
+}
+.label2{
+	position: absolute;
+	margin-top: -155px;
+	margin-left: 60px;
+	color: #FFFFFF;
+	font-size: 11px;
+
+}
+.b3{
+	position: absolute;
+	margin-top: -125px;
+	margin-left: 60px;
+	color: #FFFFFF;
+}
+.label3{
+	position: absolute;
+	margin-top:-123px;
+	margin-left: 60px;
+	color: #FFFFFF;
+	font-size: 11px;
+
+}
+.C2-con2{
+	position: absolute;
+	height: 300px;
+	width: 300px;
+	margin-top: 0px;
+	margin-left: 545px;
+	float: left;
+}
+.C2-con2 h2{
+	position: absolute;
+	margin-top: 40px;
+	color:#FFFFFF;
+}
+.C2-con2 p{
+	position: absolute;
+	margin-top: 90px;
+	font-size: 11px;
+	text-align: justify;
+	color: #FFFFFF;
+}
+.C2-con2 label{
+	position: absolute;
+	margin-top: 175px;
+	font-size: 11px;
+	text-align: justify;
+	color:#FFFFFF;
+}
+.C2-con3{
+	position: absolute;
+	height: 300px;
+	width: 185px;
+	margin-top: 0px;
+	margin-left: 955px;
+}
+.C2-con3 h2{
+	position: absolute;
+	margin-top: 40px;
+	color:#FFFFFF;
+}
+.img1{
+	position: absolute;
+	height: 40px;
+	width: 35px;
+	margin-top: 85px;
+	border-radius: 5px;
+}
+.fb-label1{
+	color: white;
+	margin-top: 90px;
+	margin-left: 60px;
+	position: absolute;
+}
+.img2{
+	position: absolute;
+	height: 35px;
+	width: 35px;
+	margin-top: 135px;
+}
+.tw-label2{
+	color: white;
+	margin-top: 145px;
+	margin-left: 60px;
+	position: absolute;
+}
+.img3{
+	position: absolute;
+	height: 35px;
+	width: 35px;
+	margin-top: 190px;
+}
+.rss-label3{
+	color: white;
+	margin-top: 200px;
+	margin-left: 60px;
+	position: absolute;
+}
+.img4{
+	position: absolute;
+	height: 35px;
+	width: 35px;
+	margin-top: 235px;
+	border-radius: 5px;
+}
+.gl-label4{
+	color: white;
+	margin-top: 245px;
+	margin-left: 60px;
+	position: absolute;
+}
+							/*Content2 end*/
+/*fotter start*/
+.Fotter{
+	width: 100%;
+	height: 50px;
+	background-color:#FFFFFF;
+	position: relative;
+
+
+}
+.Fotter label{
+	margin-top: 20px;
+	margin-left: 550px;
+	position: absolute;
+	color: #6d706f;
+	font-size: 12px;
+}
+							/*fotter end*/
